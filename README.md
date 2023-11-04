@@ -127,3 +127,15 @@ Program tersebut memungkinkan pengguna untuk memasukkan tanggal lahir dan bulan,
     }
    ```
 ## Nomor 4
+Kode tersebut membuat sebuah array integer yang berisi angka 1 hingga 10. Selanjutnya, menggunakan loop for, program mencetak setiap elemen dari array tersebut dalam format yang terpisah dengan tanda strip (-) di depannya. Hasilnya adalah mencetak angka 1 sampai 10 dengan format "- angka" pada setiap barisnya.
+```sh
+   public static void main(String[] args) {
+        // Array dengan tipe data integer
+        int[] nomor = {1, 2,3,4,5,6,7,8,9,10};
+
+        System.out.println("1) Array NOMOR:");
+        for (int i = 0; i < nomor.length; i++) {
+            System.out.println("- " + nomor[i]);
+        }
+    }
+   ```
