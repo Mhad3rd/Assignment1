@@ -65,3 +65,9 @@ Program tersebut merupakan kalkulator sederhana dalam Java yang meminta pengguna
         input.close();
     }
    ```
+
+## Nomor 3
+
+```sh
+   for (int i = 1; i <= 100; i++)
+   ```
