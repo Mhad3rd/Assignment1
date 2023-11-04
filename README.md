@@ -11,3 +11,5 @@ program ini akan mencetak angka dari 1 sampai 9 dan kemudian mencetak string "Mu
 
             System.out.println("Muhammad Hafizh Ario Diffo");
         }
+
+##Nomor 2
