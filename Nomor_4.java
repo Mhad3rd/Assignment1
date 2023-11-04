@@ -10,7 +10,7 @@ public class Nomor_4 {
         }
 
         // Array dengan tipe data String
-        String[] nama = {"Upin", "Ipin", "Susanti", "Fizi", "Ehsan"};
+        String[] nama = {"Boboiboy", "Ying", "Yaya", "Gopal", "Adudu"};
 
         System.out.println("\n2) Array NAMA:");
         for (int i = 0; i < nama.length; i++) {
